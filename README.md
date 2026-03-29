@@ -7,7 +7,7 @@ A full-stack web application for managing patient data using **React (Frontend)*
 ## 🚀 Live Demo
 
 - 🌐 Frontend: https://lazfront.vercel.app/
-- ⚙️ Backend: https://lazarus-2.onrender.com
+- ⚙️ Backend: https://lazarus-2.onrender.com/api/patients
 
 ---
 
